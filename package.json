@@ -1,0 +1,17 @@
+{
+  "name": "social_network_tnandaku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanujan Nandakumar",
+  "license": "ISC"
+}
